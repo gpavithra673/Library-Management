@@ -23,17 +23,22 @@ In this module the user can cancel their name which is registered for the Book.
 ### Star UML
 ## UML Diagrams:
 ### User case Diagram:
-![image](https://github.com/gpavithra673/Library-Management/assets/93427264/28a289b9-a938-48bf-a95a-2cd0991ba80d)
+![image](https://github.com/gpavithra673/Library-Management/assets/93427264/47487db5-efb7-4498-91ee-cb6257c3532a)
+
 ### Activity Diagram:
-![image](https://github.com/gpavithra673/Library-Management/assets/93427264/1b554261-5790-4834-a93f-ed057287ae95)
+![image](https://github.com/gpavithra673/Library-Management/assets/93427264/b7d00501-db5e-4809-9c78-fe450914dd2f)
+
 ### Sequence Diagram:
-![image](https://github.com/gpavithra673/Library-Management/assets/93427264/48cc01c7-7a0d-41c3-8581-044fbaf66391)
+![image](https://github.com/gpavithra673/Library-Management/assets/93427264/d041fa7b-a930-4598-9bfd-a328cb4bccaa)
+
 ### Class Diagram:
-![image](https://github.com/gpavithra673/Library-Management/assets/93427264/4a74b1d8-eb65-4c3a-8288-23849996eec4)
+![image](https://github.com/gpavithra673/Library-Management/assets/93427264/abf40ddb-be8e-4f9e-af93-8a7b1767c8d7)
+
 ### Packge Diagram:
-![image](https://github.com/gpavithra673/Library-Management/assets/93427264/0c3cc9fa-8457-4a95-8491-19700ed4ee2a)
+![image](https://github.com/gpavithra673/Library-Management/assets/93427264/2a6e2962-06fd-4702-9d55-e506faba4741)
+
 ### Communication Diagram:
-![image](https://github.com/gpavithra673/Library-Management/assets/93427264/48708bca-da41-4c8f-8cad-7ee2910fb2a9)
+![image](https://github.com/gpavithra673/Library-Management/assets/93427264/24d97a67-f095-4653-85e2-84c91cca4955)
 
 ## RESULT:
 ### Thus the Library management system project was executed and the output was verified.
